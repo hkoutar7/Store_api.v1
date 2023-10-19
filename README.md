@@ -33,7 +33,7 @@ This project is a React application that consumes the Fake Store API to display 
 ![Capture](https://github.com/hkoutar7/Store_api.v1/assets/122703123/0f358c54-3a4b-4c33-b8cf-6e327275b46d)
 
 ## Video Record
-![vido demo](https://www.loom.com/share/3b19ae4bb57a46c6893915fc414e2d3d?sid=cbf784ed-1575-40dd-b722-efefff32b45d)
+[vido demo](https://www.loom.com/share/3b19ae4bb57a46c6893915fc414e2d3d?sid=6777ef93-c6a1-4b76-9f37-25d68272c4ed)
 
 ## Contributing
 
