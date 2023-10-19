@@ -1,0 +1,22 @@
+div.categories {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  gap: 7px;
+}
+
+div.categories button {
+  min-width: 100px;
+  width: fit-content;
+  background: red;
+  padding: 5px 14px;
+  color: white;
+  text-transform: capitalize;
+  border-radius: 11px;
+  border: none;
+  border-bottom: 3px solid #bb0000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

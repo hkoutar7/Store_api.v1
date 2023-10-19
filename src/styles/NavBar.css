@@ -1,0 +1,15 @@
+.navbar-nav a {
+  width: 79px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #212529;
+}
+
+.navbar-nav a:hover {
+  background-color: #2b2f33;
+}
+
+.navbar-nav a.active {
+  background-color: #2b2f33;
+}
