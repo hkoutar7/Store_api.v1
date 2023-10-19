@@ -1,9 +1,5 @@
 # RetailVista
 
-_A React Application Consuming Fake Store API_
-
-### Project Description
-
 This project is a React application that consumes the Fake Store API to display various products. It provides functionalities to view all products, including their title, description, price, category, and rating. Additionally, users can filter products based on categories such as clothes and accessories. The application is built using React with React Router for navigation and Bootstrap for styling.
 
 ### Features
@@ -34,10 +30,10 @@ This project is a React application that consumes the Fake Store API to display 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
 
 ## Screenshots
-
-![App Screenshot]()
+![Capture](https://github.com/hkoutar7/Store_api.v1/assets/122703123/0f358c54-3a4b-4c33-b8cf-6e327275b46d)
 
 ## Video Record
+![vido demo](https://www.loom.com/share/3b19ae4bb57a46c6893915fc414e2d3d?sid=cbf784ed-1575-40dd-b722-efefff32b45d)
 
 ## Contributing
 
